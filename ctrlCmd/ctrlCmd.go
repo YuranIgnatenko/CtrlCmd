@@ -1,4 +1,4 @@
-package CtrlCmd
+package ctrlCmd
 
 import (
 	"fmt"
